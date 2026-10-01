@@ -1,7 +1,0 @@
-In index.html ersetzen:
-
-src="assets/suol-promo.mp4"
-
-DURCH:
-
-src="suol-promo.mp4"
